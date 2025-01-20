@@ -1,50 +1,8 @@
 # Cisco ASA Firewall Certification Prep: A Practical Training Guide
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/cisco-asa-firewall-training?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/cisco-asa-firewall-training?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/cisco-asa-firewall-training?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/cisco-asa-firewall-training.svg?cache=remove)
-
-<br>
-
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
-
-<br>
-
-# SUPPORT ME -- 🚩💲🙏
-
-### Thank you for checking out my Cisco ASA Firewall training GitHub repo! Your support means a lot to me as I continue to improve and expand this resource for the community. If you found it helpful or valuable, please consider giving it a star ⭐️. And if you'd like to show additional appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome!
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
---- 
-
-🔒 Secure Networks | 🌐 Industry-Ready Skills | 🚀 Career Advancement <br>
-
-Welcome to our comprehensive Cisco ASA Firewall Training – the ultimate guide to mastering the art of network security. Whether you're a beginner looking to understand the basics or an experienced professional seeking advanced configurations, our hands-on course is tailored just for you. <br>
-
-## 🌐 **Attention Cisco Enthusiasts!**
-
-- Looking for free Cisco images for EVE-NG or GNS3? Dive into a treasure trove of high-quality Cisco images for seamless network simulations. Access them for free at [this link](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG). 
-
-- Additionally, VMware Workstation Pro licenses are available here! Explore a world of virtualization possibilities. [click here to](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) Check out and supercharge your network and virtualization journey!
-
-Happy Networking and Virtualizing! 🚀
 
 
-
-
-
-
-## 🔗 [Let's Get Started!](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/0.Prerequisite.md)
-
-<hr>
-
-# <p align="center">**-:Table of Contents:-**</p>
-
-<p align="center">
-  <strong>
-    
+   
 ## [Prerequisite](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/0.Prerequisite.md)
 ## [1. Introduction to Cisco ASA](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/01.Introduction%20to%20Cisco%20ASA.md)
    - [1.1 Overview](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/01.Introduction%20to%20Cisco%20ASA.md)
@@ -139,30 +97,3 @@ Happy Networking and Virtualizing! 🚀
 
 ## [11. Labs - EVE-NG Topology with Configuration](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/11.Lab_Topologies.md)
 
-<br>
-
-## Contact
-
-Feel free to contact me if you have any questions or suggestions.
-
-
-Telegram Group: [here](https://t.me/cyberweavehub)
-
-<br>
-
-## Created By [🔝](cisco-asa-firewall-training)
-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
-
- <!-- Support Me --> 
- 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-  </strong>
-</p>
