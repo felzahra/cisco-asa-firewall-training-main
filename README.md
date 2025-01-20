@@ -4,7 +4,7 @@
 Table of Contents:-
 
 
-Prerequisite
+
 1. Introduction to Cisco ASA
 1.1 Overview
 1.2 Features
@@ -87,3 +87,4 @@ Cisco ASA Syslog Configuration
 10. Backup Configurations(TFTP)
 10.1 Configuration Backups(TFTP)
 11. Labs - EVE-NG Topology with Configuration
+
